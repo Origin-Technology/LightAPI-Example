@@ -1,4 +1,6 @@
 .DS_Store
-node_modules/
+worker-configuration.d.ts
 package-lock.json
+
+node_modules/
 .wrangler/
