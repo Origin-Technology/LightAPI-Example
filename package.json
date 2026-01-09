@@ -9,9 +9,9 @@
     "cf-typegen": "wrangler types"
   },
   "dependencies": {
-    "chanfana": "^2.6.3",
-    "hono": "^4.6.20",
-    "zod": "^3.24.1"
+    "chanfana": "^3.0.0",
+    "zod": "^4.0.0",
+    "hono": "^4.11.3"
   },
   "devDependencies": {
     "@types/node": "22.13.0",
